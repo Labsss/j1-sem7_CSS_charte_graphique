@@ -1,10 +1,64 @@
+nav {
+    background-color: #64ea78;
+    color: #828282;
+    text-align: center;
+}
+
 body {
     font-family: 'Montserrat', sans-serif;
     margin: auto;
 }
 
+ul  {
+    list-style: square inside url("sqpurple.gif");
+}
+
 body {
     background-color: #0C0C0C;
     color: #BABABA
+}
+
+h2 {
+    color: #64ea78;
+}
+
+blockquote {
+    font-style: italic
+}
+
+.carre1 {
+    width:50px;
+    height:50px;
+    background: #64ea78;
+    border: 1px;
+    margin:10px auto;
+    float: left;
+}
+
+.carre2 {
+    width:50px;
+    height:50px;
+    background: #BABABA;
+    border: 1px;
+    margin:10px auto;
+    float: left;
+}
+
+.carre3 {
+    width:50px;
+    height:50px;
+    background: #828282;
+    border: 1px;
+    margin:10px auto;
+    float: left;
+}
+
+.carre4 {
+    width:50px;
+    height:50px;
+    background: #3D3D3D;
+    border: 1px;
+    margin:10px auto;
+    float: left;
 }
 
