@@ -14,12 +14,11 @@ ul  {
 }
 
 body {
-    background-color: #0C0C0C;
-    color: #BABABA
+    background-color: #BABABA;
 }
 
 h2 {
-    color: #64ea78;
+    color: #0F0F0F;
 }
 
 blockquote {
@@ -38,7 +37,7 @@ blockquote {
 .carre2 {
     width:50px;
     height:50px;
-    background: #BABABA;
+    background: #828282;
     border: 1px;
     margin:10px auto;
     float: left;
@@ -47,7 +46,7 @@ blockquote {
 .carre3 {
     width:50px;
     height:50px;
-    background: #828282;
+    background: #3D3D3D;
     border: 1px;
     margin:10px auto;
     float: left;
@@ -56,9 +55,12 @@ blockquote {
 .carre4 {
     width:50px;
     height:50px;
-    background: #3D3D3D;
+    background: #0F0F0F;
     border: 1px;
     margin:10px auto;
     float: left;
 }
 
+.button2 {
+
+}
